@@ -57,8 +57,24 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="messages.html" />
+    <Content Include="Scripts\angular-messages.js" />
+    <Content Include="Scripts\angular-messages.min.js" />
+    <Content Include="Scripts\angular-route.js" />
+    <Content Include="Scripts\angular-route.min.js" />
+    <Content Include="Scripts\angular-translate-loader-static-files.min.js" />
+    <Content Include="Scripts\angular-translate.js" />
+    <Content Include="Scripts\angular-translate.min.js" />
+    <Content Include="Scripts\angular-validation\angular-validation.min.js" />
     <Content Include="Scripts\angular.min.js.map" />
     <Content Include="packages.config" />
+    <Content Include="Scripts\angular-route.min.js.map" />
+    <Content Include="Scripts\angular-validation\locales\ru.json" />
+    <Content Include="Scripts\angular-validation\locales\no.json" />
+    <Content Include="Scripts\angular-validation\locales\fr.json" />
+    <Content Include="Scripts\angular-validation\locales\es.json" />
+    <Content Include="Scripts\angular-validation\locales\en.json" />
+    <Content Include="Scripts\angular-messages.min.js.map" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

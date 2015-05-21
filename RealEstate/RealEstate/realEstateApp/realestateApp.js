@@ -1,3 +1,3 @@
 ﻿(function () {
-    angular.module("realestateApp", []);
+    angular.module("realestateApp", ["ngMessages"]);
 }());

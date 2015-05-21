@@ -16,4 +16,11 @@ label {
     width:100px;
     text-align: right;
 }
+.messages {
+  font-size: small;
+  padding-top: 1px;
+  padding-bottom: 1px;
+  padding-left: 10px;
+  color: red;
+}
 
